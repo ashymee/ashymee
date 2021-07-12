@@ -1,12 +1,9 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hii! My name is Aswin Himawan</h2>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
-- 🔭 I’m currently working on **Learning development**
 
-- 🌱 I’m currently learning **React.js, Vue.js, Backend with Node and Express**
+- 🔭 I’m currently working on **Department of Communication and Informatics, Karawang, West Java, Indonesia**
 
 - 🌐 My website: [devstreetlab.my.id](https://devstreetlab.my.id)
-
-- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **ashymee@gmail.com**
 
@@ -23,20 +20,6 @@
   <img src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=%47848F">
 </p>
 
-<p align="center">
- 💻 My setup <br>
-  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
-<p align="center">
- 💻 My apps <br>
-  🌐 Web browser: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
-  <br>
-  👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
-  <br>
-  📹 Video editor: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/shotcut-0078D6?logoColor=white&style=for-the-badge&color=115C77"></a>
-</p>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/ashymee/count.svg" />
 </p>
