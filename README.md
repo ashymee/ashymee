@@ -21,9 +21,10 @@
   <img src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=%47848F">
 </p>
 
-<p align="center" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 20px 0"> 
-  <img src="https://profile-counter.glitch.me/ashymee/count.svg" />
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ashymee/count.svg" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 20px 0" />
 </p>
+
 ## Contribution Graph
 
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=ashymee&theme=github" alt="ashymee" /></p>
