@@ -11,7 +11,7 @@ Hi, My name is Aswin Himawan
 
 - Please visit my website at [devstreetlab.my.id](https://devstreetlab.my.id)
 
-- Mail me at: **ashymee@gmail.com**
+- For projects inquiries, sent me email to **ashymee@gmail.com**
 
 <br/>
 
