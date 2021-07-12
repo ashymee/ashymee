@@ -7,7 +7,7 @@ Hi, My name is Aswin Himawan
 
 <br/>
 
-- 🌐 Please visit my [portfolio](https://ashymee.github.io)
+- 🌐 Please visit [my portfolio](https://ashymee.github.io)
 
 - 🌐 Please visit my website: [devstreetlab.my.id](https://devstreetlab.my.id)
 
