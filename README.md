@@ -5,13 +5,15 @@ Hi, My name is Aswin Himawan
 </h2>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 
----
+<br/>
 
-- 🌐 Please visit mt website: [devstreetlab.my.id](https://devstreetlab.my.id)
+- 🌐 Please visit my [portfolio](https://ashymee.github.io)
+
+- 🌐 Please visit my website: [devstreetlab.my.id](https://devstreetlab.my.id)
 
 - 📫 Mail me at: **ashymee@gmail.com**
 
----
+<br/>
 
 <p align="center">
   My interests: <br>
@@ -28,13 +30,13 @@ Hi, My name is Aswin Himawan
   <img src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=%47848F">
 </p>
 
----
+<br/>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/ashymee/count.svg" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 20px 0" />
 </p>
 
----
+<br/>
 
 ## Contribution Graph
 
