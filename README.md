@@ -26,12 +26,6 @@ By the way, it's an honor for me to help you solve the problem, the backend - fr
 
 <br/>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ashymee/count.svg" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 20px 0" />
-</p>
-
-<br/>
-
 ## Contribution Graph
 
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=ashymee&theme=github" alt="ashymee" /></p>
