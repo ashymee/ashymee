@@ -25,6 +25,7 @@ By the way, it's an honor for me to help you solve the problem, the backend - fr
   <img src="https://img.shields.io/badge/ElectronJS-TS-blue">
   <img src="https://img.shields.io/badge/Typescript-♥️-blue">
   <img src="https://img.shields.io/badge/Tailwind-CSS-red">
+  <img src="https://img.shields.io/badge/Firebase-SDK-yellow">
 </p>
 
 <br/>
