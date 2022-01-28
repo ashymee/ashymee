@@ -17,12 +17,12 @@ By the way, it's an honor for me to help you solve the problem, the backend - fr
 
 ### My interests:
 <p align="center"> 
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/NodeJS-TS-green">
+  <img src="https://img.shields.io/badge/ReactJS-TS-blue">
   <img src="https://img.shields.io/badge/NextJS-TS-blue">
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
-  <img src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=%47848F">
-  <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%177bbb"/>
+  <img src="https://img.shields.io/badge/ExpressJS-TS-lightgrey">
+  <img src="https://img.shields.io/badge/ElectronJS-TS-blue">
+  <img src="https://img.shields.io/badge/Typescript-♥️-blue">
 </p>
 
 <br/>
