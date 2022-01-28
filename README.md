@@ -12,7 +12,7 @@ By the way, it's an honor for me to help you solve the problem, the backend - fr
 
 <br/>
 
-> If you don't mind, please visit [my website](https://devstreetlab.my.id) or you can see [my portfolio](https://ashymee.github.io).
+> If you don't mind, please visit [my website](https://devstreetlab.my.id) or you can see my bio [here](https://ashymee.github.io).
 
 
 ### My interests:
