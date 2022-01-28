@@ -3,7 +3,7 @@
 <br/>
 Hi,
 </h2>
-<h3 align="center">My name is, Aswin Himawan, I'm a passionate fullstack web developer from Indonesia.</h3>
+<h3 align="center">My name is, Aswin Himawan, I'm a self-taught web developer from Indonesia.</h3>
 
 <br/>
 
