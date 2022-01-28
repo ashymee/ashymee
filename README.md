@@ -20,9 +20,11 @@ By the way, it's an honor for me to help you solve the problem, the backend - fr
   <img src="https://img.shields.io/badge/NodeJS-TS-blue">
   <img src="https://img.shields.io/badge/ReactJS-TS-blue">
   <img src="https://img.shields.io/badge/NextJS-TS-blue">
+  <img src="https://img.shields.io/badge/ReactNative-TS-blue">
   <img src="https://img.shields.io/badge/ExpressJS-TS-blue">
   <img src="https://img.shields.io/badge/ElectronJS-TS-blue">
   <img src="https://img.shields.io/badge/Typescript-♥️-blue">
+  <img src="https://img.shields.io/badge/Tailwind-CSS-red">
 </p>
 
 <br/>
