@@ -3,3 +3,12 @@
 <br/>
 Hi
 </h2>
+
+<br/>
+
+![ashymee's streak](https://github-readme-streak-stats.herokuapp.com/?user=ashymee&theme=dark)
+![ashymee's stats](https://github-readme-stats.vercel.app/api?username=ashymee&show_icons=true&hide_border=true&theme=dark)
+
+<br/>
+
+![ashymee's trophy](https://github-profile-trophy.vercel.app/?username=ashymee&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)
