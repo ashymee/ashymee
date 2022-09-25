@@ -7,6 +7,7 @@ Hi
 <br/>
 
 <div width="48%">![ashymee's streak](https://github-readme-streak-stats.herokuapp.com/?user=ashymee&theme=dark)</div>
+
 ![ashymee's stats](https://github-readme-stats.vercel.app/api?username=ashymee&show_icons=true&hide_border=true&theme=dark)
 
 <br/>
