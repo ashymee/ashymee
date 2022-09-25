@@ -8,7 +8,7 @@ Hi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashymee&theme=dark" width="48%" alt="ashymee's streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashymee&show_icons=true&hide_border=true&theme=dark" width="48%" alt"ashymee's stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashymee&show_icons=true&hide_border=true&theme=dark" width="48%" alt="ashymee's stats" />
 
 <br/>
 
