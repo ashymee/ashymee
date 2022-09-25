@@ -13,4 +13,6 @@ Hi
 
 <br/>
 
-![ashymee's trophy](https://github-profile-trophy.vercel.app/?username=ashymee&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashymee&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15" alt="ashymee's trophy" />
+</div
