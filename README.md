@@ -11,3 +11,5 @@ Hi
   <img src="https://github-readme-stats.vercel.app/api?username=ashymee&show_icons=true&hide_border=true&theme=dark" width="48%" alt="ashymee's stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=ashymee&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15" alt="ashymee's trophy" />
 </div>
+
+[![Ashymee's GitHub](https://github-readme-stats.vercel.app/api?username=ashymee&show_icons=true&theme=dark#gh-dark-mode-only)]
